@@ -80,3 +80,7 @@
 
 <p align="left">I am looking for Backend Development Internships.</p>
 <p align="left">I am open to work with any tech stack or language.</p>
+
+##
+
+<img src="https://raw.githubusercontent.com/mahirjain10/mahirjain10/output/snake.svg" alt="Snake animation" />
