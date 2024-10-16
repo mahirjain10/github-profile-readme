@@ -1,3 +1,10 @@
+<style>
+  body {
+    background-color: #1b1b1b; /* Dark background */
+    color: #f5f5f5; /* Light text color */
+  }
+</style>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
