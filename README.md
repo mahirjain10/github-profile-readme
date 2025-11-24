@@ -97,7 +97,7 @@ Backend for user alerts with **SSE real-time updates**, scheduled stock fetching
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mahirjain10/mahirjain10/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mahirjain10/github-profile-readme/output/snake.svg)
 
 </div>
 
