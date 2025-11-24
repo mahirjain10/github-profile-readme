@@ -1,3 +1,5 @@
+
+
 # 👋 Hi, I am **Mahir Jain**
 
 ## **Software Developer (Backend) | Can Work With Any Technology**
@@ -62,21 +64,36 @@ I am an **MCA graduate from Mumbai University** and a backend-focused software d
 
 Multi-queue distributed image processor using **Go workers**, **NestJS**, **RabbitMQ**, **Redis Pub/Sub**, **AWS S3 + SNS**.
 Achieved **4.3 jobs/sec throughput** with horizontal scaling.
-🔗 *https://github.com/mahirjain10/image-processing-mono-repo*
+🔗 *GitHub link here*
 
 ---
 
 ### ⚡ **Reverse Proxy Cache Server**
 
 High-speed Go reverse proxy with **Redis caching**, stale-while-revalidate, leader–follower concurrency, and health checks.
-🔗 *https://github.com/mahirjain10/reverse-proxy-from-scratch*
+🔗 *GitHub link here*
 
 ---
 
 ### 📈 **Stock Alert System**
 
 Backend for user alerts with **SSE real-time updates**, scheduled data fetching, **Redis Pub/Sub**, **Gin**, **MySQL**, authentication.
-🔗 *https://github.com/mahirjain10/sse-stock-alert-app*
+🔗 *GitHub link here*
+
+---
+
+## 🎮 Snake Animation
+
+<div align="center">
+  <!-- change the src to your raw GitHub raw URL if needed -->
+  <img alt="snake" src="https://github.com/mahirjain10/github-profile-readme/blob/output/snake.svg" height="120" />
+</div>
+
+*If you prefer a wider or smaller animation, adjust the `height` value above (e.g., `height="160"`). If you host the `snake.svg` in your repo's `output/` folder, GitHub will render it properly. For the cleanest result use the `raw.githubusercontent.com` URL (example below) — replace `BRANCH` with your branch name (usually `main` or `master`):*
+
+```
+https://raw.githubusercontent.com/mahirjain10/github-profile-readme/BRANCH/output/snake.svg
+```
 
 ---
 
@@ -95,4 +112,6 @@ Backend for user alerts with **SSE real-time updates**, scheduled data fetching,
 📧 **Email:** [mahirjain.mj71@gmail.com](mailto:mahirjain.mj71@gmail.com)
 💻 **GitHub:** [https://github.com/mahirjain10](https://github.com/mahirjain10)
 
+---
 
+.
