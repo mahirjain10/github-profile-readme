@@ -1,86 +1,105 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Perfect — here is your **clean, modern, professional GitHub README WITH badges added**.
+These badges give your profile a **high-quality, developer-branding look**.
 
-###
+Below is the **final polished README** — just copy-paste into your `README.md`:
 
-<p align="left">My name is Mahir Jain and I'm a final year MCA student from Mumbai</p>
+---
 
-###
+# 👋 Hi, I'm **Mahir Jain**
 
-<h2 align="left">About me</h2>
+## **Software Developer (Backend) | Can Work With Any Technology**
 
-###
+[![GitHub Followers](https://img.shields.io/github/followers/mahirjain10?style=flat\&color=0A66C2)](https://github.com/mahirjain10)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahirjain10\&color=orange)](https://github.com/mahirjain10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mahir-jain-bbbaab221/)
+[![Twitter](https://img.shields.io/badge/Follow%20@mahirjain_10-black?logo=x\&logoColor=white)](https://x.com/mahirjain_10)
 
-<p align="left">
-    ✨ Creating bugs since 2021<br>
-    📚 I'm currently learning Go, Flutter, and AWS<br>
-    🎯 Goals: To contribute to tech communities and build cool software<br>
-    🎲 Fun fact: I love experimenting with tech and finding creative solutions to problems!
-</p>
+I'm an **MCA graduate from Mumbai University** and a backend-focused software developer passionate about building scalable and high-performance systems. I work across **Golang**, **Node.js**, **microservices**, **distributed systems**, cloud infra, and more — and I'm comfortable adapting to any tech stack.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🚀 **About Me**
 
-###
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
-</div>
+* 🛠 Backend development since **2021**
+* 💡 Strong in **Golang**, **Node.js**, **NestJS**, **Microservices**, **Redis**, **RabbitMQ**
+* 🔌 Experience with **WebSockets**, **gRPC**, **worker queues**, **caching systems**
+* ☁️ Cloud: **AWS (EC2, S3, SES, SNS, EBS)**
+* 🧠 Love building **distributed systems, infra, and database-heavy apps**
+* 🤝 Open to any technology, any stack, any challenge
 
-###
+---
 
-<h2 align="left">Connect with me</h2>
+## 🧰 **Tech Stack**
 
-###
+### **Backend & Systems**
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/mahir-jain-bbbaab221/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-    </a>
-    <a href="https://x.com/mahirjain_10" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo" />
-    </a>
-    <a href="https://discord.com/users/mahir0010" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-    </a>
-</div>
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-008ECF?logo=grpc\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq\&logoColor=white)
 
-###
+### **Databases**
 
-<p align="left">I am looking for Backend Development Internships.</p>
-<p align="left">I am open to work with any tech stack or language.</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=database\&logoColor=white)
 
-##
+### **Frontend**
 
-###
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
 
-<h3 align="left">🔥   My Stats :</h3>
+### **Cloud & DevOps**
 
-###
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+
+---
+
+## 🔥 **Featured Projects**
+
+### 🚀 **Distributed Image Processing System**
+
+Multi-queue distributed image processor using **Go workers**, **NestJS**, **RabbitMQ**, **Redis Pub/Sub**, **AWS S3 + SNS**.
+Achieved **4.3 jobs/sec throughput** with horizontal scaling.
+🔗 *https://github.com/mahirjain10/image-processing-mono-repo*
+
+---
+
+### ⚡ **Reverse Proxy Cache Server**
+
+High-speed Go reverse proxy with **Redis caching**, stale-while-revalidate, leader–follower concurrency, and health checks.
+🔗 *https://github.com/mahirjain10/reverse-proxy-from-scratch*
+
+---
+
+### 📈 **Stock Alert System**
+
+Backend for user alerts with **SSE real-time updates**, scheduled data fetching, **Redis Pub/Sub**, **Gin**, **MySQL**, authentication.
+🔗 *https://github.com/mahirjain10/sse-stock-alert-app*
+
+---
+
+## 📊 **GitHub Stats**
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=mahirjain10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=mahirjain10&theme=dark&hide_border=true" height="180" />
 </div>
 
-###
+---
 
-<img src="https://github.com/mahirjain10/github-profile-readme/blob/output/snake.svg" alt="Snake animation" />
+## 🌐 **Connect With Me**
+
+📌 **LinkedIn:** [https://www.linkedin.com/in/mahir-jain-bbbaab221/](https://www.linkedin.com/in/mahir-jain-bbbaab221/)
+🐦 **Twitter (X):** [https://x.com/mahirjain_10](https://x.com/mahirjain_10)
+📧 **Email:** [mahirjain.mj71@gmail.com](mailto:mahirjain.mj71@gmail.com)
+💻 **GitHub:** [https://github.com/mahirjain10](https://github.com/mahirjain10)
+
+
