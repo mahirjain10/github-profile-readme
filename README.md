@@ -1,11 +1,4 @@
-Perfect — here is your **clean, modern, professional GitHub README WITH badges added**.
-These badges give your profile a **high-quality, developer-branding look**.
-
-Below is the **final polished README** — just copy-paste into your `README.md`:
-
----
-
-# 👋 Hi, I'm **Mahir Jain**
+# 👋 Hi, I am **Mahir Jain**
 
 ## **Software Developer (Backend) | Can Work With Any Technology**
 
@@ -14,7 +7,7 @@ Below is the **final polished README** — just copy-paste into your `README.md`
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mahir-jain-bbbaab221/)
 [![Twitter](https://img.shields.io/badge/Follow%20@mahirjain_10-black?logo=x\&logoColor=white)](https://x.com/mahirjain_10)
 
-I'm an **MCA graduate from Mumbai University** and a backend-focused software developer passionate about building scalable and high-performance systems. I work across **Golang**, **Node.js**, **microservices**, **distributed systems**, cloud infra, and more — and I'm comfortable adapting to any tech stack.
+I am an **MCA graduate from Mumbai University** and a backend-focused software developer passionate about building scalable and high-performance systems. I work across **Golang**, **Node.js**, **microservices**, **distributed systems**, cloud infra, and more — and I'm comfortable adapting to any tech stack.
 
 ---
 
